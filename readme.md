@@ -1,8 +1,8 @@
-#Taller de Lenguajes I
-##Gonzalez jose Gerardo
-##Trabajo Practico N°1
-1.
-    b.
+# Taller de Lenguajes I
+## Gonzalez jose Gerardo
+## Trabajo Practico N°1
+*1.
+    *b.
     El archivo "gitignore", que sirve para decirle a Git qué archivos o directorios completos debe ignorar y no subir al repositorio de código.
     Es conveniente utilizarlos ya que no todos los archivos y carpetas son necesarios de gestionar. Hay código que no necesitas enviar a Git,por no desear compartir o también pueden ser archivos binarios con datos que no necesitas mantener en el control de versiones, como diagramas, instaladores de software, etc.
 
